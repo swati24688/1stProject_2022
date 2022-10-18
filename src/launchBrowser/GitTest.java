@@ -11,7 +11,8 @@ public class GitTest {
 	
 	public static void test(String[] args) {
 		
-		System.out.println("apple");
+		System.out.println("apple 123");
 	}
 
+	
 }
